@@ -3,7 +3,7 @@
 Welcome to the official GitHub for **Diverge**.  
 
 > **Note:** All repositories are currently private to protect intellectual property and ongoing research.  
-> Recruiters seeking early access please contact me via the email listed on my resume.
+> Recruiters seeking early access please contact me via the email listed on my resume.  
 > Collaborators seeking early access please contact me at divergedev25@gmail.com 
 
 ---
