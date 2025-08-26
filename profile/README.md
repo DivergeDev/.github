@@ -1,4 +1,4 @@
-# Diverge GitHub  
+# Diverge  
 
 Welcome to the official GitHub for **Diverge**.  
 
