@@ -25,7 +25,6 @@ Our research centers on a framework we call **Zstyle**: an ecosystem of AI agent
 - **Personal Assistant Agent** – Organizes tasks, integrates with productivity tools, and acts as the central hub for lifestyle management.  
 - **Nutritionist Agent** – Supports meal planning, healthy eating, and recipe management.  
 - **Trainer/Coach Agent** – Designs adaptive fitness plans that align with user schedules and health data.  
-- **Therapist Agent** – Built with safety and privacy as a priority (HIPAA-ready). Provides weekly summaries that can enhance sessions with licensed professionals.  
 - **Future Agents** – Additional specialists in wellness, creativity, and productivity are in development.  
 
 These agents communicate with each other, share insights, and **guide users toward their goals**—whether that’s improving health, building better habits, or achieving personal milestones.  
