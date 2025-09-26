@@ -2,9 +2,9 @@
 
 Welcome to the official GitHub for **Diverge**.  
 
-> **Note:** All repositories are currently private to protect intellectual property and ongoing research.  
-> Recruiters seeking early access please contact me via the email listed on my resume.  
-> Collaborators seeking early access please contact me at divergedev25@gmail.com 
+> **Note:**
+> Recruiters seeking restricted admin access please contact me via the email listed on my resume.  
+> Collaborators looking to join please contact me at divergedev25@gmail.com 
 
 ---
 
@@ -14,6 +14,13 @@ At Diverge, we believe technology should **work for people**, not the other way 
 Our mission is to design an **AI-powered lifestyle automation system** that motivates, supports, and empowers individuals to live healthier, more intentional lives.  
 
 In today’s world, many people feel trapped in addictive scrolling habits. Diverge is reimagining how technology can act as a guide—encouraging exploration, self-improvement, and balance instead of overconsumption.  
+
+---
+## zstyle-mobile-app
+
+The app to end and uplift them all. Dashboards to see current activity across lifes many apps from calendar, todo lists, email clients, etc. All the information is brought here for the Zstyle framework to thrive handling garbage emails while showing/reminding you of important emails that you shouldn't miss, rearraging the calendar with a simple 'hey my day changed'. The **zstyle-mobile-app** app allows the Zstyle framework to be aware of a users life and take action to clean, organize, and standardize built for ADHD works for everyone.
+
+zstyle-mobile-app shows users the excat information that is stored by the Diverge and Zstyle with easy integration and deintegration, and the ability to directly edit your specific context that is past into the LLM to personalize the Zstyle experience.
 
 ---
 
@@ -36,7 +43,7 @@ These agents communicate with each other, share insights, and **guide users towa
 Our R&D focus is on blending **AI, behavioral science, and health research** to improve daily life. Current areas of exploration include:  
 
 - Best practices for habit formation and lifestyle optimization.  
-- Training AI models to specialize in distinct wellness domains.  
+- Refining LLMs to specialize in distinct lifestyle and wellness domains.  
 - Exploring safe, ethical ways to monitor health signals (behavioral and biological) to provide personalized, science-backed guidance.  
 
 Through this work, Diverge aims to **redefine the relationship between people and technology**—from distraction to empowerment.  
